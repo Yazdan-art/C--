@@ -1,0 +1,2 @@
+E:\test2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+E:\visual_studio_workspace\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
